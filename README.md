@@ -3,8 +3,11 @@
 inspectr
 ========
 
-<!-- badges: start --> [![R build
+<!-- badges: start -->
+
+[![R build
 status](https://github.com/atlas-aai/inspectr/workflows/R-CMD-check/badge.svg)](https://github.com/atlas-aai/inspectr/actions)
+
 <!-- badges: end -->
 
 ### A package for performing fidelity checks on messy dataframes.
