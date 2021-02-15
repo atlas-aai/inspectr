@@ -5,8 +5,9 @@ inspectr
 
 <!-- badges: start --> [![R build
 status](https://github.com/atlas-aai/inspectr/workflows/R-CMD-check/badge.svg)](https://github.com/atlas-aai/inspectr/actions)
-<!-- badges: end --> \#\#\# A package for performing fidelity checks on
-messy dataframes.
+<!-- badges: end -->
+
+### A package for performing fidelity checks on messy dataframes.
 
 Inspectr consists of functions adapted from a quality control script I
 developed for performing data checks on large datasets from an
